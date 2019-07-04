@@ -8,6 +8,11 @@ namespace AlgorithmTest
 {
     class CodilityTest3
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="T"></param>
+        /// <returns></returns>
         public int solution(int[] T)
         {
             int result = 1;
