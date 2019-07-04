@@ -8,7 +8,11 @@ namespace ALGORITHME
 {
     class CodifyAscii
     {
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="palavra"></param>
+        /// <returns></returns>
         public static string Codifica(string palavra)
         {
            // int f = 1;
