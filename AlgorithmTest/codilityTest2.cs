@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlgorithmTest
 {
-    class codilityTest2
+    class CodilityTest2
     {
         /// <summary>
         /// 

@@ -49,7 +49,7 @@
     <Compile Include="CheckMatrixAreSame.cs" />
     <Compile Include="CodifyAscii.cs" />
     <Compile Include="CodilityTest1.cs" />
-    <Compile Include="codilityTest2.cs" />
+    <Compile Include="CodilityTest2.cs" />
     <Compile Include="CodilityTest3.cs" />
     <Compile Include="CountDiv.cs" />
     <Compile Include="CyclicRotation.cs" />
