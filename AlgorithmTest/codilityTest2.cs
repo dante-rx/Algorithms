@@ -8,6 +8,11 @@ namespace AlgorithmTest
 {
     class codilityTest2
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="A"></param>
+        /// <returns></returns>
         public int solution(int[] A)
         {
             if (A.Length <= 2) return -2;
